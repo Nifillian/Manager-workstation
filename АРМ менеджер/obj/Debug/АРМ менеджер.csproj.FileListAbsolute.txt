@@ -1,0 +1,14 @@
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\bin\Debug\АРМ менеджер.exe.config
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\bin\Debug\АРМ менеджер.exe
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\bin\Debug\АРМ менеджер.pdb
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ менеджер.csproj.AssemblyReference.cache
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Clients.resources
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Comps.resources
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Form1.resources
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Parts.resources
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Properties.Resources.resources
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ менеджер.csproj.GenerateResource.cache
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ менеджер.csproj.CoreCompileInputs.cache
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ менеджер.exe
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ менеджер.pdb
+C:\Users\danik\source\repos\АРМ менеджер\АРМ менеджер\obj\Debug\АРМ_менеджер.Assembly.resources
